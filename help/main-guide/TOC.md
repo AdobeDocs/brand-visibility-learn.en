@@ -1,8 +1,8 @@
 ---
-user-guide-title: New Template Guide
-user-guide-description: Add description for the new guide here.
+user-guide-title: Brand Visibility tutorials
+user-guide-description: Brand Visibility tutorials
 ---
 
-# New template guide {#tutorials}
+# Brand Visibility tutorials {#tutorials}
 
 + [Overview](overview.md)
