@@ -13,6 +13,4 @@ feature_v2:
 
 # Overview
 
-Testing -
-
->[!VIDEO](https://video.tv.adobe.com/v/3502249/?quality=12&learn=on){transcript=true}
+Content to come
