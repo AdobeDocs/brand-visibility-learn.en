@@ -1,11 +1,17 @@
 ---
-title: 'Brand Visibility University: Landing Cards Test'
-description: Alternate Brand Visibility University overview built with the landing-cards-container component, for an A/B comparison of card styles.
+title: 'Brand Visibility University: GEO Video Tutorials'
+description: Learn how AI search and LLMs work and how to earn brand visibility and citations in AI answers, with practical value videos from Brand Visibility University.
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+    internal-label: Getting started
 ---
 
-# Brand Visibility University (landing cards A/B test)
+# Adobe Brand Visibility University
 
-This is an alternate version of the overview built with the `landing-cards-container` component, to compare against the generated-HTML cards. Same videos, grouped by topic.
+Welcome to Adobe Brand Visibility University, a growing library of short, practical value videos that explain how AI search and large language models work, and how to earn visibility and citations for your brand in AI answers. Browse by topic below.
 
 ## Foundations: how AI search works {#foundations}
 

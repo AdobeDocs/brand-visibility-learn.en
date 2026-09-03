@@ -5,8 +5,7 @@ user-guide-description: Brand Visibility tutorials
 
 # Brand Visibility University {#tutorials}
 
-+ [Overview](overview.md)
-+ [Overview (landing cards test)](overview-landing-cards.md)
++ [Overview](overview-landing-cards.md)
 + [How LLMs Work: A Marketer's Guide](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing Webmaster Tools AI Performance Report](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Do You Have to Optimize Your Entire Website?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
