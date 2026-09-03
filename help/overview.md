@@ -1,6 +1,6 @@
 ---
-title: Adobe Brand Visibility University
-description: Explore Adobe Brand Visibility University, short practical value videos on how AI search works and how to earn brand visibility and citations in AI answers.
+title: 'Brand Visibility University: GEO Video Tutorials'
+description: Learn how AI search and LLMs work and how to earn brand visibility and citations in AI answers, with practical value videos from Brand Visibility University.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
 product_v2:
@@ -11,7 +11,7 @@ feature_v2:
     internal-label: Getting started
 ---
 
-# Overview
+# Adobe Brand Visibility University
 
 Welcome to Adobe Brand Visibility University, a growing library of short, practical value videos that explain how AI search and large language models work, and how to earn visibility and citations for your brand in AI answers. Browse by topic below.
 
