@@ -6,10 +6,10 @@ user-guide-description: Brand Visibility tutorials
 # Brand Visibility University {#tutorials}
 
 + [Overview](overview.md)
++ [How LLMs Work: A Marketer's Guide](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [Bing Webmaster Tools AI Performance Report](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
 + [Do You Have to Optimize Your Entire Website?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
 + [Writing Prompts for Reliable, Repeatable GEO Insights](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-+ [How LLMs Work: A Marketer's Guide](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
 + [How to Monitor Regional Differences in AI Brand Responses](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
 + [Increasing Brand Authority for Low Agentic Traffic Domains](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
 + [Is Adding AI Friendly Page Summaries Cloaking?](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
