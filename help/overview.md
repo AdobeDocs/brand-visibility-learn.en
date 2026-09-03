@@ -11,7 +11,7 @@ feature_v2:
     internal-label: Getting started
 ---
 
-# Brand Visibility University video tutorials
+# Adobe Brand Visibility University
 
 Welcome to Adobe Brand Visibility University, a growing library of short, practical value videos that explain how AI search and large language models work, and how to earn visibility and citations for your brand in AI answers. Browse by topic below.
 
