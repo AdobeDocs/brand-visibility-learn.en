@@ -8,7 +8,7 @@ doc-type: Value Video
 duration: 161
 last-substantial-update: 2026-09-02
 jira: KT-22505
-nudge: edit
+nudge: edit1
 ---
 # How Do You Write Prompts That Give You Reliable, Repeatable GEO Insights
 
