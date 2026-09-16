@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Value Video
 duration: 161
 last-substantial-update: '2026-09-02T00:00:00.000Z'
-jira: KT-2250
+jira: KT-22505
 autotag-review: '2026-09-16T18:51:54.065Z'
 TQID: 'https://experienceleague.adobe.com/hWvCECVi-XvvPGL8Q85Ohx1XmN-7dI0Ken-FnAb4y6M'
 product_v2:
