@@ -6,8 +6,25 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 118
-last-substantial-update: 2026-09-02
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22511
+TQID: 'https://experienceleague.adobe.com/hk3yfBS5b0boen5PYcsw7sc5i138T9I3GI8UTolRDn8'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+feature_v2:
+  - id: ab7fdb62-bd53-4cfd-8c2c-169f7e47f20e
+    internal-label: Brand intelligence
+subfeature_v2:
+  - id: f718ad75-b1df-4dc1-89bf-0c3167e83b33
+    internal-label: Brand presence
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 ---
 # What Can You Do to Improve What AI Assistants Say About Your Products or Services?
 
