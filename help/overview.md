@@ -23,6 +23,9 @@ topic_v2:
 
 Welcome to Adobe Brand Visibility University, a growing library of short, practical value videos that explain how AI search and large language models work, and how to earn visibility and citations for your brand in AI answers. Browse by topic below.
 
+>[!NOTE]
+>For complete documentation, please see the [Adobe Brand Visibility documentation](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home).
+
 ## Foundations: how AI search works {#foundations}
 
 Start here to understand how large language models and AI assistants find, use, and cite content.
