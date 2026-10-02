@@ -21,6 +21,7 @@ user-guide-description: Brand Visibility tutorials
     + [Do You Have to Optimize Your Entire Website?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
     + [Is LLMs.txt Relevant?](abv-university/abv-related/llmstxt-is-it-relevant-june-2026.md)
 + Measurement and visibility {#measurement}
+    + [How the Impact Measurement Engine Works](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
     + [Visibility Score and Metrics for AI Visibility](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
     + [Agentic Traffic and Your Optimization Decisions](abv-university/abv-related/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.md)
     + [What GEO Can't Measure Yet, and How That Improves](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)
