@@ -26,6 +26,22 @@ Welcome to Adobe Brand Visibility University, a growing library of short, practi
 >[!NOTE]
 >For complete documentation, please see the [Adobe Brand Visibility documentation](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home).
 
+## News and Insights {#news-and-insights}
+
+The latest shifts in AI search and what they mean for your brand.
+
+::::landing-cards-container
+:::card
+![Google Now Answers Brand Names with AI Overviews](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
+
+Google Now Answers Brand Names with AI Overviews
+
+How Google's AI Overviews now answer brand-name searches, and what to watch in Search Console and AI answers.
+
+[Watch](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+:::
+::::
+
 ## Foundations: how AI search works {#foundations}
 
 Start here to understand how large language models and AI assistants find, use, and cite content.
@@ -153,6 +169,15 @@ An audit of nearly 5,000 AEM sites on LLMs.txt adoption, and why creating one is
 Learn what to measure, and how to read the signals that show whether AI can see and cite you.
 
 ::::landing-cards-container
+:::card
+![How the Impact Measurement Engine Works](/help/assets/overview/how-does-the-impact-measurement-engine-work.png)
+
+How the Impact Measurement Engine Works
+
+How the engine measures AI visibility before and after an optimization and reports exactly what changed.
+
+[Watch](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
+:::
 :::card
 ![Visibility Score and Metrics for AI Visibility](/help/assets/overview/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.png)
 
