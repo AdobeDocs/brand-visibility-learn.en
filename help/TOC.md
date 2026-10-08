@@ -6,6 +6,8 @@ user-guide-description: Brand Visibility tutorials
 # Brand Visibility University {#tutorials}
 
 + [Overview](overview.md)
++ News and Insights {#news-and-insights}
+    + [Google Now Answers Brand Names with AI Overviews](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Foundations: how AI search works {#foundations}
     + [How LLMs Work: A Marketer's Guide](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
     + [Writing Prompts for Reliable, Repeatable GEO Insights](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
