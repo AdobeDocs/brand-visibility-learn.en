@@ -32,6 +32,24 @@ The latest shifts in AI search and what they mean for your brand.
 
 ::::landing-cards-container
 :::card
+![Google Preferred Sources Explained](/help/assets/overview/what-are-google-preferred-sources.png)
+
+Google Preferred Sources Explained
+
+What Google's Preferred Sources feature does, why it is growing fast, and how to add it in two lines of HTML.
+
+[Watch](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCP and How AI Agents Use Your Site](/help/assets/overview/what-is-webmcp.png)
+
+WebMCP and How AI Agents Use Your Site
+
+How WebMCP lets AI agents call tools on your page like an API, how it differs from MCP, and where to start.
+
+[Watch](abv-university/abv-related/what-is-webmcp.md)
+:::
+:::card
 ![Google Now Answers Brand Names with AI Overviews](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 
 Google Now Answers Brand Names with AI Overviews
