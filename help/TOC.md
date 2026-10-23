@@ -7,6 +7,8 @@ user-guide-description: Brand Visibility tutorials
 
 + [Overview](overview.md)
 + News and Insights {#news-and-insights}
+    + [Google Preferred Sources Explained](abv-university/abv-related/what-are-google-preferred-sources.md)
+    + [WebMCP and How AI Agents Use Your Site](abv-university/abv-related/what-is-webmcp.md)
     + [Google Now Answers Brand Names with AI Overviews](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Foundations: how AI search works {#foundations}
     + [How LLMs Work: A Marketer's Guide](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
