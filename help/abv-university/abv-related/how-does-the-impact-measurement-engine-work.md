@@ -50,4 +50,4 @@ In this video, you learn:
 >[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
 
 >[!NOTE]
->Select at least 20 URLs so the engine has a large enough sample to measure impact accurately. Impact measurement is available today for recover content visibility and is expanding to all Optimize at the Edge opportunities.
+>Select at least 20 URLs so the engine has a large enough sample to measure impact accurately. Impact measurement is available today for Recover Content Visibility, Add LLM-friendly Summaries, and Add Table of Contents, and is planning to expand to more Optimize at the Edge opportunities.
