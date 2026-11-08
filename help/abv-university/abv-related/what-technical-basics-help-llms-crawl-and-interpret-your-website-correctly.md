@@ -31,7 +31,7 @@ topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
 ---
-# What Technical Basics Help LLMs Crawl and Interpret your Website Correctly?
+# What technical basics help LLMs crawl and interpret your website correctly?
 
 LLM experiences rely on the same web infrastructure as search: crawling, indexing, and rendering. This video covers the technical basics that keep your content visible and citable.
 

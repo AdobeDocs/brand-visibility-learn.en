@@ -28,7 +28,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# How LLMs Work: A Marketer's Guide
+# How LLMs work: a marketer's guide
 
 A practical, non-technical look at how large language models actually work, why they predict rather than look up answers, and why being cited is the new visibility for GEO.
 

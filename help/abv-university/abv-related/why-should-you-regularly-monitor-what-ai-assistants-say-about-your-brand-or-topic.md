@@ -32,7 +32,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Why Should You Regularly Monitor What AI Assistants Say About Your Brand or Topic?
+# Why should you regularly monitor what AI assistants say about your brand or topic?
 
 AI answers change quickly as models update and the web shifts. This video explains why regular monitoring is quality assurance for how AI portrays your brand.
 

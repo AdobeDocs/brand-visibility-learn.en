@@ -34,7 +34,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# What Is Agentic Traffic and How Can It Inform Optimization Decisions?
+# What is agentic traffic and how can it inform optimization decisions?
 
 Agentic traffic is AI actively interacting with your website. This video shows how monitoring it in Adobe Brand Visibility reveals what AI can access, and where to act.
 

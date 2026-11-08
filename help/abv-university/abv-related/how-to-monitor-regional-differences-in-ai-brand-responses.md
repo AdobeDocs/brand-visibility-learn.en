@@ -31,7 +31,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How to Monitor Regional Differences in AI Brand Responses
+# How to monitor regional differences in AI brand responses
 
 AI assistants answer differently depending on where they think the user is. This video shows why writing location directly into your monitoring prompts makes results mirror what your customers actually see.
 

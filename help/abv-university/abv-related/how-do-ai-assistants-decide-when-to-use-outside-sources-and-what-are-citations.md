@@ -25,7 +25,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How Do AI Assistants Decide When to Use Outside Sources and What Are Citations?
+# How do AI assistants decide when to use outside sources and what are citations?
 
 AI assistants either answer from training data or retrieve live sources first. This video shows how they decide, what a citation really is, and why some are not real.
 

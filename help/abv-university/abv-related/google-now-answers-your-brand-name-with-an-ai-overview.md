@@ -9,7 +9,7 @@ duration: 135
 last-substantial-update: 2026-10-08
 jira: KT-22790
 ---
-# Google Now Answers Your Brand Name with an AI Overview
+# Google now answers your brand name with an AI Overview
 
 This video explains how Google now shows an AI Overview for most brand-name searches, what that changes for your brand, and what to watch.
 

@@ -30,7 +30,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 ---
-# What We Can't Measure Well Yet in GEO and How Measurement Will Improve Over Time
+# What we can't measure well yet in GEO and how measurement will improve over time
 
 GEO measurement is hard because AI is non-deterministic and shifts with region, recency, and personalization. This video covers what is tough to measure today, and how it is improving.
 

@@ -29,7 +29,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How Do You Write Prompts That Give You Reliable, Repeatable GEO Insights
+# How do you write prompts that give you reliable, repeatable GEO insights
 
 Treat the prompts you track like test cases. This video shows how realistic, specific, and repeatable prompts give you stable, reliable AI visibility insights in Adobe Brand Visibility.
 

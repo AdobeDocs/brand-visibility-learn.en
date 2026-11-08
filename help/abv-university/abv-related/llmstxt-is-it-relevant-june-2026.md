@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# LLMs.txt - Is it relevant (June 2026)
+# LLMs.txt - is it relevant (June 2026)
 
 Revisiting LLMs.txt with fresh data: an audit of nearly 5,000 AEM sites shows adoption and AI citations are tiny, but Googlebot now reads the file, so creating one is cheap insurance.
 

@@ -31,7 +31,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# What Is the Difference Between Being Mentioned and Being Cited in an AI Answer?
+# What is the difference between being mentioned and being cited in an AI answer?
 
 A mention names your brand in the text; a citation links your page as a source. This video explains the difference and why citations are the stronger visibility signal.
 

@@ -31,7 +31,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# Do You Have to Optimize Your Entire Website?
+# Do you have to optimize your entire website?
 
 No. With Adobe Brand Visibility (formerly LLM Optimizer) you decide which pages to optimize, and every page you don't select is served exactly as it is today. This video explains how that page-by-page control works.
 

@@ -31,7 +31,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How Do Large Language Models LLMs Decide Which Citations to Include in their responses?
+# How do large language models LLMs decide which citations to include in their responses?
 
 LLMs fan a single prompt into many smaller queries and cite the sources that perform best across all of them. This video explains what that means for getting your brand cited.
 

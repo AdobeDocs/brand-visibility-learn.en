@@ -29,7 +29,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# What Can You Do to Improve What AI Assistants Say About Your Products or Services?
+# What can you do to improve what AI assistants say about your products or services?
 
 There is no single setting that decides your preferred AI answer. The most reliable way to shape AI answers is to improve the information AI relies on, starting with your own site.
 

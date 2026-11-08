@@ -36,7 +36,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 ---
-# What Is Visibility Score and What Metrics Should You Use to Measure AI Visibility?
+# What is visibility score and what metrics should you use to measure AI visibility?
 
 Visibility score is an aggregate metric, and every tool calculates it differently. This video explains what Adobe Brand Visibility rolls into it, and which metrics to pair with it.
 

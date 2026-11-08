@@ -31,7 +31,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Why Does Sentiment Matter in AI Answers and What Can Sentiment Analysis Miss?
+# Why does sentiment matter in AI answers and what can sentiment analysis miss?
 
 Sentiment is the emotional direction of language, and it shapes how AI answers portray your brand. This video explains why it matters and where sentiment analysis can go wrong.
 
