@@ -29,7 +29,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Referral Traffic Increase from ChatGPT in May 2026
+# Referral traffic increase from ChatGPT in May 2026
 
 Adobe data shows referral traffic from ChatGPT rising about 60%. This video explains why, and what it means as ChatGPT shifts from a brand channel back to a traffic channel.
 

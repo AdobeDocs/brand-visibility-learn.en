@@ -31,7 +31,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# Is Adding AI Friendly Page Summaries Cloaking?
+# Is adding AI friendly page summaries cloaking?
 
 Short answer: no. This video explains why Optimize at the Edge summaries for AI agents are not cloaking, using Google's own definition, and how you stay in full control.
 

@@ -31,7 +31,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# Is Pre-Rendering Content for AI bots Cloaking?
+# Is pre-rendering content for AI bots cloaking?
 
 No. Pre-rendering simply lets AI agents see the same content a human sees, and it follows the same guidance Google gives for heavy client-side JavaScript.
 

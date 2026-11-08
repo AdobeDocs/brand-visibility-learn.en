@@ -26,7 +26,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Why Map Prompts to Personas, and How Do You Tailor Prompts to Different Audiences?
+# Why map prompts to personas, and how do you tailor prompts to different audiences?
 
 Persona-based prompt mapping groups prompts by real user types. This video shows why tailoring prompts to your audiences reveals your true standing in AI answers.
 

@@ -33,7 +33,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# Bing Webmaster Tools AI Performance Report
+# Bing Webmaster Tools AI performance report
 
 Learn how Microsoft's new AI Performance Report in Bing Webmaster Tools tracks how often your content is cited as a source in AI-generated answers, and what it means for generative engine optimization (GEO).
 

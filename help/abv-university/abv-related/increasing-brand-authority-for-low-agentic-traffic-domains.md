@@ -31,7 +31,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# Increasing Brand Authority for Low Agentic Traffic Domains
+# Increasing brand authority for low agentic traffic domains
 
 Brand authority decides whether you rank in search and get cited in AI answers. This video shows how to build it from links, mentions, and reputation, and measure it in Adobe Brand Visibility even when AI traffic is still low.
 
