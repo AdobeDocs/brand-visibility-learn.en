@@ -10,7 +10,7 @@ description: Brand Visibility documentation.
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/brand-visibility-learn.en
 index: true
-nudge: true
+nudge: republish
 recommendations: noDisplay
 ---
 
