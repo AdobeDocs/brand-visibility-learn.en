@@ -37,3 +37,5 @@ user-guide-description: Brand Visibility tutorials
     + [How to monitor regional differences in AI brand responses](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
     + [Why to regularly monitor AI answers about your brand](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
     + [Why sentiment matters in AI answers (and its limits)](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
++ Brand Visibility in action {#in-action}
+    + [Content Freshness opportunity](abv-university/abv-related/content-freshness.md)
